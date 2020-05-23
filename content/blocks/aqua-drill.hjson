@@ -1,0 +1,19 @@
+name: Aqua Drill
+description: A very powerfull drill.
+type: Drill
+size: 3
+tier: 2
+drillTime: 10
+consumes: {
+  power: 0.01
+  liquid: {
+    liquid: water
+    amount: 0.01
+    booster: true
+  }
+}
+requirements: [
+   graphite/20
+]
+category: production
+research: laser-drill

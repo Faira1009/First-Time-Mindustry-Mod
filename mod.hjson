@@ -1,0 +1,6 @@
+name: "AQUA-overpowered-drill"
+displayName: "[orange]Overpowered drill[gold] Mod" //what displays in the mod selection menu
+author: "Aqua"
+description: "Drill for fun"
+version: "0,001"
+minGameVersion: "103"
