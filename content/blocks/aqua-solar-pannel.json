@@ -1,0 +1,13 @@
+{
+	"type": "SolarGenerator",
+	"name": "Aqua copper Solar Panel",
+	"description": "A better, easy and huge source of power.",
+	"size": 1,
+	"hasPower": true,
+    "powerProduction": 80,
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	],
+	"category": "power",
+	"research": "power-node"
+}

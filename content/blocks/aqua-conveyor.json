@@ -1,0 +1,12 @@
+{
+	"type": "Conveyor",
+	"name": "Aqua Conveyor",
+	"description": "This conveyor is the fastest, and it has a lot of health.",
+	"health": "10",
+	"requirements": [
+		{"item": "copper", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.5,
+	"research": "titanium-conveyor"
+}
