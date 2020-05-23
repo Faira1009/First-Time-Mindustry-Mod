@@ -1,0 +1,21 @@
+{
+	"type": "Conduit",
+	"name": "Aqua Conduit",
+	"description": "An Aqua conduit, the fastest conduit.",
+    "health": 120,
+	"hasLiquids": true,
+	"liquidCapacity": 100,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.3,
+	"research": "pulse-conduit"
+}

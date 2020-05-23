@@ -1,6 +1,6 @@
-name: "AQUA-overpowered-drill"
-displayName: "[orange]Overpowered drill[gold] Mod" //what displays in the mod selection menu
+name: "AQUA-overpowered-blocks"
+displayName: "[orange]Overpowered blocks[gold] Mod" //what displays in the mod selection menu
 author: "Aqua"
-description: "Drill for fun"
-version: "0,001"
+description: "An extremely fast drill and water conduit - for fun"
+version: "0,01"
 minGameVersion: "103"

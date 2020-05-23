@@ -7,7 +7,7 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 
 ## Contributing
 
-Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
+I created this just for fun. Using (drill from ExampleMod-master by Anuken, conduit from Ioire-Mod-master by xamionex)
 
 ## Want more mods?
 
