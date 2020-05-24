@@ -2,7 +2,7 @@ name: Aqua Drill
 description: A very powerfull drill.
 type: Drill
 size: 3
-tier: 20
+tier: 30
 drillTime: 1
 
 requirements: [
