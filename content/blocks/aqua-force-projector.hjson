@@ -2,6 +2,7 @@ name: Aqua Force Projector
 description: project an extremely large and durable forcefield.
 type: ForceProjector
 size: 3
+health: 1000
 phaseUseTime: 500
 phaseRadiusBoost: 300
 radius: 500
@@ -26,5 +27,5 @@ consumes: {
 requirements: [
    copper/10
 ]
-category: power
+category: defense
 research: aqua-cryo-extractor
