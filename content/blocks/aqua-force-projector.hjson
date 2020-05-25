@@ -4,7 +4,7 @@ type: ForceProjector
 size: 3
 phaseUseTime: 500
 phaseRadiusBoost 300
-radius: 
+radius: 500
 brakeage: 1000
 cooldownNormal: 1
 cooldownLiquid: 0.2
