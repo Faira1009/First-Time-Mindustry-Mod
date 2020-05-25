@@ -1,6 +1,6 @@
 name: "AQUA-overpowered-blocks"
 displayName: "[pink]Aqua [orange]Overpowered blocks[gold] Mod" //what displays in the mod selection menu
 author: "Aqua"
-description: "add cheap, odd and overpowered blocks - aqua drill, aqua cryofluid extractor,aqua conduit,aqua solar panel,aqua conveyor [pink] a testing powerful force projector- [white] just for fun"
-version: "0.02"
+description: "add cheap, odd and overpowered blocks - aqua drill, aqua cryofluid extractor,aqua conduit,aqua solar panel,aqua conveyor [pink] sand sifters- thorium, blast compound, phase fabric, surge alloy- [white] just for fun"
+version: "0.02.1"
 minGameVersion: "103"

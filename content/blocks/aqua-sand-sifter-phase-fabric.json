@@ -1,0 +1,28 @@
+{
+	"type": "GenericCrafter",
+	"name": "Aqua Sand Sifter: Phase Fabric",
+	"description": "Sifts Phase Fabric out of large amounts of sand.",
+	"outputItem": {"item": "phase-fabric", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 100,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 100 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "sand-sifter-iron",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
