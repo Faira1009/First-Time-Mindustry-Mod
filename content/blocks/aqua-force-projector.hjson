@@ -3,16 +3,15 @@ description: project an extremely large and durable forcefield.
 type: ForceProjector
 size: 3
 health: 1000
-phaseUseTime: 500
-phaseRadiusBoost: 200
-radius: 300
-breakage: 1000
-cooldownNormal: 1
-cooldownLiquid: 0.2
-cooldownBrokenBase: 0.2
-hasLiquids: true
-hasItems: true
-basePowerDraw: 0.01
+phaseUseTime: 350
+phaseRadiusBoost: 80
+radius: 101.7
+breakage: 550
+cooldownNormal: 1.75
+cooldownLiquid: 1.5
+cooldownBrokenBase: 0.35
+basePowerDraw: 0.2
+
 consumes: {
   liquid: {
     liquid: cryofluid
