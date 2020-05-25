@@ -14,7 +14,7 @@ hasItems: true
 basePowerDraw: 0.01
 solid: true
 update: true
-liquidBoostIntensity: 3
+liquidBoostIntensity: 2
 consumes: {
   liquid: {
     liquid: cryofluid
