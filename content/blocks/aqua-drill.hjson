@@ -4,7 +4,7 @@ type: Drill
 size: 3
 tier: 30
 drillTime: 1
-liquidBoostIntensity: 3
+liquidBoostIntensity: 5
 consumes: {
   liquid: {
     liquid: cryofluid
