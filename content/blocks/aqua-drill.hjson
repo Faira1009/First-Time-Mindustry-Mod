@@ -4,7 +4,15 @@ type: Drill
 size: 3
 tier: 30
 drillTime: 1
-
+consumes: {
+  liquid: {
+    liquid: cryofluid
+    amount: 0.001
+    booster: true
+    optional: true
+    liquidBoostIntensity: 5
+  }
+}
 requirements: [
    copper/10
 ]
