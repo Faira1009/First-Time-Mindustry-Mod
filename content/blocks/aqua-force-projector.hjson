@@ -4,8 +4,8 @@ type: ForceProjector
 size: 3
 health: 1000
 phaseUseTime: 500
-phaseRadiusBoost: 300
-radius: 500
+phaseRadiusBoost: 200
+radius: 300
 breakage: 1000
 cooldownNormal: 1
 cooldownLiquid: 0.2
@@ -13,8 +13,6 @@ cooldownBrokenBase: 0.2
 hasLiquids: true
 hasItems: true
 basePowerDraw: 0.01
-solid: true
-update: true
 consumes: {
   liquid: {
     liquid: cryofluid
