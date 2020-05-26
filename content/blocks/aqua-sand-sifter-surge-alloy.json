@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "silicon-smelter",
+	"research": "aqua-drill",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

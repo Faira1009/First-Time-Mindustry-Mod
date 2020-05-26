@@ -2,13 +2,13 @@ name: Aqua Drill
 description: A very powerfull drill.
 type: Drill
 size: 3
-tier: 30
-drillTime: 1
+tier: 38
+drillTime: 50
 liquidBoostIntensity: 5
 consumes: {
   liquid: {
     liquid: cryofluid
-    amount: 0.001
+    amount: 0.1
     booster: true
     optional: true 
   }

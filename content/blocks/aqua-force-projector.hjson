@@ -1,0 +1,33 @@
+name: Aqua Force Projector
+description: Ultimate forcefield.
+type: ForceProjector
+
+health: 3000
+
+size: 2
+requirements: [
+ thorium/50
+]
+category: effect
+research:  aqua-drill
+
+hasPower:true
+consumes: {
+  power: 3
+
+   items: {
+   booster:true
+   optional:true
+    items: [
+	  phase-fabric/2
+    ]
+  }
+}
+
+radius:200
+breakage:5000
+cooldownNormal:1.25
+cooldownLiquid:1.0
+phaseRadiusBoost:100
+phaseUseTime:120
+basePowerDraw:2

@@ -1,0 +1,28 @@
+name: Aqua Mender
+description: Surpreme mender.
+type: MendProjector
+
+color:84f491
+
+health: 1500
+
+size: 2
+requirements: [
+ lead/100
+ copper/200
+ graphite/200
+]
+category: effect
+research:  aqua-drill
+
+hasPower:true
+consumes: {
+  power: 6
+}
+
+reload:60
+range:380
+healpercent:36
+phaseRangeBoost:0
+phaseBoost:3
+useTime:150

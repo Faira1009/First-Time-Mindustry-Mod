@@ -20,7 +20,7 @@
 		{ "item": "lead", "amount": 100 }
 	],
 	"category": "production",
-	"research": "oil-extractor",
+	"research": "aqua-drill",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

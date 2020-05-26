@@ -1,6 +1,19 @@
 name: "AQUA-overpowered-blocks"
-displayName: "[pink]Aqua [orange]Overpowered blocks[gold] Mod" //what displays in the mod selection menu
+displayName: "[pink]AQUA [white]Overpowered blocks [gold]Mod"
 author: "Aqua"
-description: "add cheap, odd and overpowered blocks - aqua drill, aqua cryofluid extractor,aqua conduit,aqua solar panel,aqua conveyor [pink] sand sifters- thorium, blast compound, phase fabric, surge alloy- [white] just for fun"
-version: "0.02.1"
+description: " [white]add cheap, odd and overpowered blocks 
+- [pink]just for fun
+
++ [white]After [green]Aqua drill [white]has been researched, all other blocks will be unlocked
+
++ [green]Aqua drill, Aqua conduit, Aqua conveyor[white]- extremely high speed blocks
+
++ [green]Aqua cryo extractor[white]- extracts cryo fluid from the void
+
++ [green]Aqua force projector , Aqua overdrive projector, Aqua mender[white]- huge range, durable and high speed
+
++ [green]Aqua sand sifters[white]: blast compound, phase fabric, surge alloy, thorium
+
++ [green]Aqua solar pannel[white]: provide a huge amount of energy , still limited"
+version: "0.1"
 minGameVersion: "103"

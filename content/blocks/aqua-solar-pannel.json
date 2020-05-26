@@ -9,5 +9,5 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "power",
-	"research": "power-node"
+	"research": "aqua-drill"
 }
