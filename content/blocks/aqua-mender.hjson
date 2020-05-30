@@ -18,6 +18,13 @@ research:  aqua-solar-pannel
 hasPower:true
 consumes: {
   power: 6
+  items: {
+    booster: true
+    optional: true
+    items: [
+	  phase-fabric/2
+    ]
+  }
 }
 
 reload:60
