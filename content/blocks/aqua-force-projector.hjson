@@ -21,10 +21,13 @@ consumes: {
     booster: true
     optional: true
     }
-
+  items; {
+    booster: true
+    optional: true
     items: [
 	  phase-fabric/2
     ]
+  }
 }
 
 radius:300
