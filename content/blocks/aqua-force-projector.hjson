@@ -21,7 +21,7 @@ consumes: {
     booster: true
     optional: true
     }
-  items; {
+  items: {
     booster: true
     optional: true
     items: [
