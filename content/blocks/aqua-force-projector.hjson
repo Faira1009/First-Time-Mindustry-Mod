@@ -13,7 +13,6 @@ research:  aqua-solar-pannel
 
 hasPower:true
 consumes: {
-  power: 3
 
    liquid: {
     liquid: cryofluid

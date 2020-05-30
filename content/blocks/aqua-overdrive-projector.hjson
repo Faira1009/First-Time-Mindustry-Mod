@@ -25,7 +25,7 @@ consumes: {
 
 reload:40
 range:400
-speedBoost:8
+speedBoost:7
 speedBoostPhase:3
-phaseRangeBoost:100
+phaseRangeBoost:200
 useTime:150

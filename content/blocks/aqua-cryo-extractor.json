@@ -10,7 +10,7 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"pumpAmount": 2,
+	"pumpAmount": 5,
 	"updateEffect": "pulverize",
     "updateEffectChance": 0.08,
 	"consumes": {
