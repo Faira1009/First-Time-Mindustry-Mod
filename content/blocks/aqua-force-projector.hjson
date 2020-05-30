@@ -25,7 +25,6 @@ consumes: {
     items: [
 	  phase-fabric/2
     ]
-  }
 }
 
 radius:300

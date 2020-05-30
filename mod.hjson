@@ -16,6 +16,6 @@ description: " [white]add cheap, odd and overpowered blocks
 
 + [green]AQUA solar pannel[white]: provide a huge amount of energy , still limited
 
-+ [green]AQUA powernode [white]: small but huge laser range"
++ [green]AQUA powernode [white]: small but huge laser range "
 version: "0.1.1"
 minGameVersion: "103"
