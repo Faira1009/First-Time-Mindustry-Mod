@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Aqua Sand Sifter: Thorium",
+	"name": "AQUA Sand Sifter: Thorium",
 	"description": "Sifts Thorium out of large amounts of sand.",
 	"outputItem": {"item": "thorium", "amount": 2},
 	"size": 2,
@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "aqua-drill",
+	"research": "aqua-sand-sifter-surge-alloy",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

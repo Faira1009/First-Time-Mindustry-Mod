@@ -1,7 +1,7 @@
 {
 	"type": "Conduit",
-	"name": "Aqua Conduit",
-	"description": "An Aqua conduit, the fastest conduit.",
+	"name": "AQUA Conduit",
+	"description": "The fastest conduit.",
     "health": 120,
 	"hasLiquids": true,
 	"liquidCapacity": 100,
@@ -17,5 +17,5 @@
 	],
 	"category": "liquid",
 	"speed": 0.3,
-	"research": "aqua-drill"
+	"research": "aqua-cryo-extractor"
 }

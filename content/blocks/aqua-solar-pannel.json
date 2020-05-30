@@ -1,6 +1,6 @@
 {
 	"type": "SolarGenerator",
-	"name": "Aqua copper Solar Panel",
+	"name": "AQUA copper Solar Panel",
 	"description": "A better, easy and huge source of power.",
 	"size": 1,
 	"hasPower": true,

@@ -1,0 +1,12 @@
+type: PowerNode
+name: AQUA powernode
+description: Small node but huge range
+size: 1
+
+requirements: [
+  titanium/40
+]
+laserRange:300
+maxNodes:100
+category: power
+research: aqua-solar-pannel

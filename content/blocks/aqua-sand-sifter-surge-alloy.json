@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Aqua Sand Sifter: Surge Alloy",
+	"name": "AQUA Sand Sifter: Surge Alloy",
 	"description": "Sifts Surge Alloy out of large amounts of sand.",
 	"outputItem": {"item": "surge-alloy", "amount": 2},
 	"size": 2,
@@ -13,7 +13,7 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 150 }
+				{ "item": "sand", "amount": 90 }
 			]
 		}
 	},
@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "aqua-drill",
+	"research": "aqua-sand-sifter-phase-fabric",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

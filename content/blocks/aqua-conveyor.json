@@ -1,6 +1,6 @@
 {
 	"type": "Conveyor",
-	"name": "Aqua Conveyor",
+	"name": "AQUA Conveyor",
 	"description": "This conveyor is the fastest, and it has a lot of health.",
 	"health": "10",
 	"requirements": [

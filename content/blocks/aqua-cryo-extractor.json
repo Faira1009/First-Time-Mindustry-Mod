@@ -1,6 +1,6 @@
 {
 	"type": "Fracker",
-	"name": "Aqua cryo Extractor",
+	"name": "AQUA cryo Extractor",
 	"description": "Extracts cryo from the void.",
 	"liquidCapacity": 500,
 	"itemCapacity": 500,
@@ -20,7 +20,7 @@
 		{ "item": "lead", "amount": 100 }
 	],
 	"category": "production",
-	"research": "aqua-drill",
+	"research": "aqua-conveyor",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

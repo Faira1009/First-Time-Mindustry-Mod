@@ -1,4 +1,4 @@
-name: Aqua Force Projector
+name: AQUA Force Projector
 description: Ultimate forcefield.
 type: ForceProjector
 
@@ -9,25 +9,29 @@ requirements: [
  thorium/50
 ]
 category: effect
-research:  aqua-drill
+research:  aqua-solar-pannel
 
 hasPower:true
 consumes: {
   power: 3
 
-   items: {
-   booster:true
-   optional:true
+   liquid: {
+    liquid: cryofluid
+    amount: 0.1
+    booster: true
+    optional: true
+    }
+
     items: [
 	  phase-fabric/2
     ]
   }
 }
 
-radius:200
-breakage:5000
-cooldownNormal:1.25
-cooldownLiquid:1.0
-phaseRadiusBoost:100
+radius:300
+breakage:15000
+cooldownNormal:1.0
+cooldownLiquid:0.2
+phaseRadiusBoost:300
 phaseUseTime:120
 basePowerDraw:2

@@ -1,4 +1,4 @@
-name: Aqua Mender
+name: AQUA Mender
 description: Surpreme mender.
 type: MendProjector
 
@@ -13,7 +13,7 @@ requirements: [
  graphite/200
 ]
 category: effect
-research:  aqua-drill
+research:  aqua-solar-pannel
 
 hasPower:true
 consumes: {
@@ -21,8 +21,8 @@ consumes: {
 }
 
 reload:60
-range:380
+range:500
 healpercent:36
-phaseRangeBoost:0
-phaseBoost:3
+phaseRangeBoost:200
+phaseBoost:5
 useTime:150

@@ -1,4 +1,4 @@
-name: Aqua Overdrive Projector
+name: AQUA Overdrive Projector
 description: Surpreme overdrive projector.
 type: OverdriveProjector
 
@@ -9,7 +9,7 @@ requirements: [
  titanium/300
 ]
 category: effect
-research:  aqua-drill
+research:  aqua-solar-pannel
 
 hasPower:true
 consumes: {
@@ -17,8 +17,8 @@ consumes: {
 }
 
 reload:40
-range:300
-speedBoost:7
-speedBoostPhase:0
-phaseRangeBoost:0
+range:400
+speedBoost:8
+speedBoostPhase:3
+phaseRangeBoost:100
 useTime:150

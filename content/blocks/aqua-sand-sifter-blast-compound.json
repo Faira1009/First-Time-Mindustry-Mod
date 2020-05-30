@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Aqua Sand Sifter: Blast Compound",
+	"name": "AQUA Sand Sifter: Blast Compound",
 	"description": "Sifts Blast Compound out of large amounts of sand.",
 	"outputItem": {"item": "blast-compound", "amount": 2},
 	"size": 2,
@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "aqua-drill",
+	"research": "aqua-conduit",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

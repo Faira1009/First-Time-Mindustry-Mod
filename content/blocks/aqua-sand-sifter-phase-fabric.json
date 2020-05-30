@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Aqua Sand Sifter: Phase Fabric",
+	"name": "AQUA Sand Sifter: Phase Fabric",
 	"description": "Sifts Phase Fabric out of large amounts of sand.",
 	"outputItem": {"item": "phase-fabric", "amount": 2},
 	"size": 2,
@@ -13,7 +13,7 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 100 }
+				{ "item": "sand", "amount": 80 }
 			]
 		}
 	},
@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "aqua-drill",
+	"research": "aqua-sand-sifter-blast-compound",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
