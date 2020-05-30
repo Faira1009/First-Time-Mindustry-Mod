@@ -14,12 +14,6 @@ research:  aqua-solar-pannel
 hasPower:true
 consumes: {
 
-   liquid: {
-    liquid: cryofluid
-    amount: 0.1
-    booster: true
-    optional: true
-    }
   items: {
     booster: true
     optional: true
@@ -30,7 +24,7 @@ consumes: {
 }
 
 radius:300
-breakage:15000
+breakage:7000
 cooldownNormal:1.0
 cooldownLiquid:0.2
 phaseRadiusBoost:300
