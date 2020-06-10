@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "AQUA Sand Sifter: BOOM BOOM ",
 	"description": "Sifts essential things out of small amounts of sand. This will ruin your fun",
-	"outputItem": [
+	"results": [
 		{"item": "copper", "amount": 3},
 		{"item": "lead", "amount": 3},
 		{"item": "metaglass", "amount": 3},
