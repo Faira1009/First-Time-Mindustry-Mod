@@ -1,0 +1,26 @@
+{
+	"type": "Fracker",
+	"name": "AQUA oil Extractor",
+	"description": "Extracts oil from the ground.",
+	"liquidCapacity": 600,
+	"itemCapacity": 600,
+	"result": "oil",
+	"size": 3,
+    "atttribute": "oil",
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"pumpAmount": 6,
+	"updateEffect": "pulverize",
+    "updateEffectChance": 0.08,
+	"consumes": {
+		"power": 1.0
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 100 }
+	],
+	"category": "production",
+	"research": "aqua-conveyor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

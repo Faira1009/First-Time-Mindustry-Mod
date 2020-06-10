@@ -2,7 +2,7 @@ name: AQUA Drill
 description: A very powerfull drill.
 type: Drill
 size: 3
-tier: 38
+tier: 45
 drillTime: 50
 liquidBoostIntensity: 5
 consumes: {

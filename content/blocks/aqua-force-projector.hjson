@@ -13,6 +13,7 @@ research:  aqua-solar-pannel
 
 hasPower:true
 consumes: {
+  power:2
 
   items: {
     booster: true
@@ -23,10 +24,11 @@ consumes: {
   }
 }
 
-radius:300
-breakage:7000
+radius:500
+breakage:9000
 cooldownNormal:1.0
 cooldownLiquid:0.2
 phaseRadiusBoost:300
+cooldownBrokenBase: 0.1
 phaseUseTime:120
-basePowerDraw:2
+basePowerDraw:0.2

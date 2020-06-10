@@ -1,0 +1,35 @@
+{
+	"type": "GenericCrafter",
+	"name": "AQUA Sand Sifter: BOOM BOOM ",
+	"description": "Sifts essential things out of small amounts of sand. This will ruin your fun",
+	"outputItem": [
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "metaglass", "amount": 3},
+		{"item": "graphite", "amount": 3},
+		{"item": "titanium", "amount": 3},
+		{"item": "silicon", "amount": 3}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 1000,
+	"craftTime": 30,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 10 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "aqua-sand-sifter-thorium",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
