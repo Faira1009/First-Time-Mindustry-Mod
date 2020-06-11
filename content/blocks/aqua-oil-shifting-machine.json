@@ -15,13 +15,13 @@
 	"liquidCapacity": 1000,
 	"hasItems": true,
 	"itemCapacity": 1000,
-	"craftTime": 5,
+	"craftTime": 1,
 	"updateEffect": "oily",
 	"consumes": {
 		"power": 1.0,
 		"liquid": {
 			"liquid": "oil",
-			"amount": 0.5
+			"amount": 0.3
 		}
 	},
 	"requirements": [
