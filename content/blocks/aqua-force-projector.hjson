@@ -25,10 +25,10 @@ consumes: {
 }
 
 radius:500
-breakage:9000
-cooldownNormal:1.0
-cooldownLiquid:0.2
+breakage:10000
+cooldownNormal:1.75
+cooldownLiquid:1.5
 phaseRadiusBoost:300
-cooldownBrokenBase: 0.1
-phaseUseTime:120
-basePowerDraw:0.2
+cooldownBrokenBase: 0.35
+phaseUseTime:350
+basePowerDraw:1.2
