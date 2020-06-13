@@ -1,0 +1,11 @@
+name: AQUA Big Distributor
+type:Router
+description: Bigger faster distributor.
+category: distribution
+itemCapacity: 20
+size: 3
+speed: 1
+research:aqua-conveyor
+requirements: [
+    copper/4
+]

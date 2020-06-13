@@ -2,7 +2,7 @@ name: "AQUA-overpowered-blocks"
 displayName: "[pink]AQUA [white]Overpowered blocks [gold]Mod"
 author: "AQUA"
 description: " [white]add cheap, odd and overpowered blocks 
-- [pink]just for fun. CHECKED everything works normally!
+- [pink]just for fun. CHECKED everything works normally! Color CHANGED!
 
 + [white]After [green]AQUA drill [white]has been researched, all the other blocks will be unlocked one after the others
 
@@ -20,6 +20,8 @@ description: " [white]add cheap, odd and overpowered blocks
 
 + [white] Added [green]AQUA oil shifting maching [white]: turns oil into essential ores
 
++ [white] Added [green]AQUA big distributor [white]: distribute items fast
+
 + [green]AQUA powernode [white]: small but huge laser range "
-version: "0.1.3"
+version: "0.1.5"
 minGameVersion: "103"

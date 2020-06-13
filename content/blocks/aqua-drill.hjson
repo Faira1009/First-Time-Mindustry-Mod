@@ -7,7 +7,7 @@ drillTime: 50
 liquidBoostIntensity: 5
 consumes: {
   liquid: {
-    liquid: cryofluid
+    liquid: water
     amount: 0.1
     booster: true
     optional: true 
