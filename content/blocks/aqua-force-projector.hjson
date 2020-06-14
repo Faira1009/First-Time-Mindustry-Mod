@@ -1,5 +1,5 @@
 name: AQUA Force Projector
-description: Ultimate forcefield.
+description: Ultimate forcefield. Normal cooldown:16-17s, with cryo fluid:6-7s!
 type: ForceProjector
 
 health: 3000
@@ -26,9 +26,9 @@ consumes: {
 
 radius:500
 breakage:10000
-cooldownNormal:1.75
-cooldownLiquid:1.5
+cooldownNormal:1.0
+cooldownLiquid:2
 phaseRadiusBoost:300
-cooldownBrokenBase: 0.35
+cooldownBrokenBase: 10
 phaseUseTime:350
 basePowerDraw:1.2

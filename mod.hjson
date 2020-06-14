@@ -23,5 +23,5 @@ description: " [white]add cheap, odd and overpowered blocks
 + [white] Added [green]AQUA big distributor [white]: distribute items fast
 
 + [green]AQUA powernode [white]: small but huge laser range "
-version: "0.1.5"
+version: "0.1.6"
 minGameVersion: "103"
