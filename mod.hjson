@@ -12,6 +12,8 @@ description: " [white]add cheap, odd and overpowered blocks
 
 + [green]AQUA force projector , AQUA overdrive projector, AQUA mender[white]- huge range, durable and high speed
 
++++ [red] FIXED, CHANGED [green] AQUA force projector. its cooldown time is reduced from over 3m to 16-17s. With cryo fluid, it is 6-7s cd after it breaks reaching its limit.
+
 + [green]AQUA sand sifters[white]: blast compound, phase fabric, surge alloy, thorium
 
 + [green]AQUA solar pannel[white]: provide a huge amount of energy , still limited
@@ -23,5 +25,5 @@ description: " [white]add cheap, odd and overpowered blocks
 + [white] Added [green]AQUA big distributor [white]: distribute items fast
 
 + [green]AQUA powernode [white]: small but huge laser range "
-version: "0.1.6"
+version: "0.1.7"
 minGameVersion: "103"
