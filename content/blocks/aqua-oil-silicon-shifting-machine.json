@@ -1,0 +1,31 @@
+{
+	"type": "Separator",
+	"name": "AQUA Oil-Silicon Shifting Machine",
+	"description": "turns oil into silicon",
+	"results": [
+		{"item": "silicon", "amount": 5}
+	],
+	"size": 1,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 1000,
+	"hasItems": true,
+	"itemCapacity": 1000,
+	"craftTime": 1,
+	"updateEffect": "oily",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {
+			"liquid": "oil",
+			"amount": 0.3
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 25 }
+	],
+	"category": "crafting",
+	"research": "aqua-sand-sifter-thorium",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

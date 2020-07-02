@@ -3,12 +3,17 @@ displayName: "[pink]AQUA [white]Overpowered blocks [gold]Mod"
 author: "AQUA"
 description: " [white]add cheap, odd and overpowered blocks 
 - [pink]just for fun. CHECKED everything works normally! Color CHANGED!
+- [pink]updated 03-July-2020!
 
 + [white]After [green]AQUA drill [white]has been researched, all the other blocks will be unlocked one after the others
 
 + [green]AQUA drill, AQUA conduit, AQUA conveyor[white]- extremely high speed blocks
 
 + [green]AQUA cryo extractor[white]- extracts cryo fluid from the void
+
++ [pink] Added [green]AQUA water extractor[white]- extracts water fluid from the ground
+
++ [pink] Added [green]AQUA oil extractor [white]: extract a huge amount of oit from the ground
 
 + [green]AQUA force projector , AQUA overdrive projector, AQUA mender[white]- huge range, durable and high speed
 
@@ -18,12 +23,12 @@ description: " [white]add cheap, odd and overpowered blocks
 
 + [green]AQUA solar pannel[white]: provide a huge amount of energy , still limited
 
-+ [white] Added [green]AQUA oil extractor [white]: extract a huge amount of oit from the ground
++ [white] Added [green]AQUA oil shifting machines [white]: turns oil into essential ores
 
-+ [white] Added [green]AQUA oil shifting maching [white]: turns oil into essential ores
++++ [red] FIXED, CHANGED [green] AQUA oil shifting machine - Divide the machine into 5 smaller 1x1 machines
 
 + [white] Added [green]AQUA big distributor [white]: distribute items fast
 
 + [green]AQUA powernode [white]: small but huge laser range "
-version: "0.1.7"
+version: "0.2"
 minGameVersion: "103"

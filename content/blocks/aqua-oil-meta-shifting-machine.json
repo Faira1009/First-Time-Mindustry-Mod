@@ -1,15 +1,11 @@
 {
 	"type": "Separator",
-	"name": "AQUA Oil Shifting Machine",
-	"description": "turns oil into metaglass, graphite, titanium, thorium, silicon",
+	"name": "AQUA Oil-Meta Shifting Machine",
+	"description": "turns oil into metaglass",
 	"results": [
-		{"item": "metaglass", "amount": 5},
-		{"item": "graphite", "amount": 5},
-		{"item": "titanium", "amount": 5},
-		{"item": "silicon", "amount": 5},
-		{"item": "thorium", "amount": 5}
+		{"item": "metaglass", "amount": 5}
 	],
-	"size": 3,
+	"size": 1,
 	"hasPower": true,
 	"hasLiquids": true,
 	"liquidCapacity": 1000,

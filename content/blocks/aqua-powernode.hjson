@@ -7,6 +7,6 @@ requirements: [
   titanium/40
 ]
 laserRange:300
-maxNodes:100
+maxNodes:5
 category: power
 research: aqua-solar-pannel
